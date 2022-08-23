@@ -44,6 +44,11 @@ author:
   # Used by `jekyll-feed`:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
+  social:
+    name: YH Seo
+    links:
+      - https://www.linkedin.com/in/yonghyeok-seo-1210b4163
+      - https://github.com/syh4661
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -371,11 +376,7 @@ plugins:
 #   links:
 #     - https://twitter.com/<username>
 #     - https://github.com/<username>
-social:
-   name:                YH Seo
-   links:
-     - https://www.linkedin.com/in/yonghyeok-seo-1210b4163
-     - https://github.com/syh4661
+
 
 
 # Plugin Configs
